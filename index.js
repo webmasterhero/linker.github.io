@@ -19,6 +19,7 @@ const box = document.querySelectorAll(".divs");
          
           
            links = link.value;
+           btn.href = "https://www.google.com/";
            btn.href = links;
            
          
